@@ -1,0 +1,364 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4BC35144-9967-4C6E-8FD8-5F033966352C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Conveyor.My.MyApplication</StartupObject>
+    <RootNamespace>Conveyor</RootNamespace>
+    <AssemblyName>Conveyor</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Conveyor.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Conveyor.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="LBIndustrialCtrls">
+      <HintPath>C:\Users\HKocatepe\Desktop\try\LBIndustrialCtrls_src\LBIndustrialCtrls\bin\Debug\LBIndustrialCtrls.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="PolyMonControls">
+      <HintPath>bin\Debug\PolyMonControls.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SQLite, Version=1.0.108.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Core.1.0.108.0\lib\net46\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.108.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.108.0\lib\net46\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.108.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.108.0\lib\net46\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="ComboIcon.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DMT.vb" />
+    <Compile Include="frm_conveyorSetup.Designer.vb">
+      <DependentUpon>frm_conveyorSetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_conveyorSetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_error.Designer.vb">
+      <DependentUpon>frm_error.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_error.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_information.Designer.vb">
+      <DependentUpon>frm_information.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_information.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_login.Designer.vb">
+      <DependentUpon>frm_login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_main.Designer.vb">
+      <DependentUpon>frm_main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_mainForm.Designer.vb">
+      <DependentUpon>frm_mainForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_mainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_manuel.Designer.vb">
+      <DependentUpon>frm_manuel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_manuel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_msg.Designer.vb">
+      <DependentUpon>frm_msg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_msg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Parameter.Designer.vb">
+      <DependentUpon>frm_Parameter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Parameter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Statistics.Designer.vb">
+      <DependentUpon>frm_Statistics.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Statistics.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_takeHarness.Designer.vb">
+      <DependentUpon>frm_takeHarness.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_takeHarness.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_UsertSetup.Designer.vb">
+      <DependentUpon>frm_UsertSetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_UsertSetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INIfile.vb" />
+    <Compile Include="LBMeterThreshold.vb" />
+    <Compile Include="logfile.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SQLiteTools.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frm_conveyorSetup.resx">
+      <DependentUpon>frm_conveyorSetup.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_error.resx">
+      <DependentUpon>frm_error.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_information.resx">
+      <DependentUpon>frm_information.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_login.resx">
+      <DependentUpon>frm_login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_main.resx">
+      <DependentUpon>frm_main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_mainForm.resx">
+      <DependentUpon>frm_mainForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_manuel.resx">
+      <DependentUpon>frm_manuel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_msg.resx">
+      <DependentUpon>frm_msg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Parameter.resx">
+      <DependentUpon>frm_Parameter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Statistics.resx">
+      <DependentUpon>frm_Statistics.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_takeHarness.resx">
+      <DependentUpon>frm_takeHarness.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_UsertSetup.resx">
+      <DependentUpon>frm_UsertSetup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.manifest" />
+    <None Include="bin\Debug\Conveyor.exe.config" />
+    <None Include="bin\Debug\elopar.ini" />
+    <None Include="bin\Debug\LOG_DELTA\2018-06-28.log" />
+    <None Include="bin\Debug\LOG_DELTA\2018-06-29.log" />
+    <None Include="bin\Debug\LOG_DELTA\2018-07-02.log" />
+    <None Include="bin\Debug\LOG_DELTA\2018-07-23.log" />
+    <None Include="bin\Debug\LOG_DELTA\2018-08-02.log" />
+    <None Include="bin\Debug\LOG_DELTA\2018-08-03.log" />
+    <None Include="bin\Debug\LOG_DELTA\2018-08-06.log" />
+    <None Include="bin\Debug\LOG_DELTA\2018-08-07.log" />
+    <None Include="bin\Debug\LOG_DELTA\2018-08-28.log" />
+    <None Include="bin\Debug\LOG_DELTA\2018-08-29.log" />
+    <None Include="bin\Debug\LOG_DELTA\2018-08-31.log" />
+    <None Include="bin\Debug\LOG_DELTA\2018-09-03.log" />
+    <None Include="bin\Debug\LOG_DELTA\2018-09-04.log" />
+    <None Include="bin\Debug\LOG_DELTA\2018-09-07.log" />
+    <None Include="bin\Debug\LOG_DELTA\2018-09-17.log" />
+    <None Include="bin\Debug\LOG_DELTA\2018-09-19.log" />
+    <None Include="bin\Debug\System.Data.SQLite.dll.config" />
+    <None Include="bin\Release\Conveyor.exe.config" />
+    <None Include="bin\Release\elopar.ini" />
+    <None Include="bin\Release\LOG_DELTA\2018-07-05.log" />
+    <None Include="bin\Release\LOG_DELTA\2018-08-03.log" />
+    <None Include="bin\Release\LOG_DELTA\2018-08-07.log" />
+    <None Include="bin\Release\LOG_DELTA\2018-09-03.log" />
+    <None Include="bin\Release\LOG_DELTA\2018-09-05.log" />
+    <None Include="bin\Release\System.Data.SQLite.dll.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\Conveyor.exe" />
+    <Content Include="bin\Debug\Conveyor.pdb" />
+    <Content Include="bin\Debug\Conveyor.xml" />
+    <Content Include="bin\Debug\DMT.dll" />
+    <Content Include="bin\Debug\EntityFramework.dll" />
+    <Content Include="bin\Debug\EntityFramework.SqlServer.dll" />
+    <Content Include="bin\Debug\EntityFramework.SqlServer.xml" />
+    <Content Include="bin\Debug\EntityFramework.xml" />
+    <Content Include="bin\Debug\images\add.png" />
+    <Content Include="bin\Debug\images\audio-volume-low.png" />
+    <Content Include="bin\Debug\images\audio-volume-medium.png" />
+    <Content Include="bin\Debug\images\elopar group.PNG" />
+    <Content Include="bin\Debug\images\Elopar.ico" />
+    <Content Include="bin\Debug\images\exit-th.png" />
+    <Content Include="bin\Debug\images\image3.png" />
+    <Content Include="bin\Debug\images\image4.png" />
+    <Content Include="bin\Debug\images\LOGO.jpg" />
+    <Content Include="bin\Debug\images\logo_0pV_icon.ico" />
+    <Content Include="bin\Debug\images\remove.png" />
+    <Content Include="bin\Debug\images\sol %281%29.png" />
+    <Content Include="bin\Debug\images\sol %282%29.png" />
+    <Content Include="bin\Debug\images\Untitled1.png" />
+    <Content Include="bin\Debug\images\update.png" />
+    <Content Include="bin\Debug\LBIndustrialCtrls.dll" />
+    <Content Include="bin\Debug\PolyMonControls.dll" />
+    <Content Include="bin\Debug\System.Data.SQLite.dll" />
+    <Content Include="bin\Debug\System.Data.SQLite.EF6.dll" />
+    <Content Include="bin\Debug\System.Data.SQLite.Linq.dll" />
+    <Content Include="bin\Debug\System.Data.SQLite.xml" />
+    <Content Include="bin\Debug\x64\SQLite.Interop.dll" />
+    <Content Include="bin\Debug\x86\SQLite.Interop.dll" />
+    <Content Include="bin\Release\Conveyor.exe" />
+    <Content Include="bin\Release\Conveyor.pdb" />
+    <Content Include="bin\Release\Conveyor.xml" />
+    <Content Include="bin\Release\DMT.dll" />
+    <Content Include="bin\Release\EntityFramework.dll" />
+    <Content Include="bin\Release\EntityFramework.SqlServer.dll" />
+    <Content Include="bin\Release\EntityFramework.SqlServer.xml" />
+    <Content Include="bin\Release\EntityFramework.xml" />
+    <Content Include="bin\Release\images\add.png" />
+    <Content Include="bin\Release\images\audio-volume-low.png" />
+    <Content Include="bin\Release\images\audio-volume-medium.png" />
+    <Content Include="bin\Release\images\elopar group.PNG" />
+    <Content Include="bin\Release\images\Elopar.ico" />
+    <Content Include="bin\Release\images\exit-th.png" />
+    <Content Include="bin\Release\images\image3.png" />
+    <Content Include="bin\Release\images\image4.png" />
+    <Content Include="bin\Release\images\LOGO.jpg" />
+    <Content Include="bin\Release\images\logo_0pV_icon.ico" />
+    <Content Include="bin\Release\images\remove.png" />
+    <Content Include="bin\Release\images\Untitled1.png" />
+    <Content Include="bin\Release\images\update.png" />
+    <Content Include="bin\Release\LBIndustrialCtrls.dll" />
+    <Content Include="bin\Release\PolyMonControls.dll" />
+    <Content Include="bin\Release\System.Data.SQLite.dll" />
+    <Content Include="bin\Release\System.Data.SQLite.EF6.dll" />
+    <Content Include="bin\Release\System.Data.SQLite.Linq.dll" />
+    <Content Include="bin\Release\System.Data.SQLite.xml" />
+    <Content Include="bin\Release\x64\SQLite.Interop.dll" />
+    <Content Include="bin\Release\x86\SQLite.Interop.dll" />
+    <Content Include="DMT.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="..\packages\System.Data.SQLite.Core.1.0.108.0\build\net46\System.Data.SQLite.Core.targets" Condition="Exists('..\packages\System.Data.SQLite.Core.1.0.108.0\build\net46\System.Data.SQLite.Core.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Data.SQLite.Core.1.0.108.0\build\net46\System.Data.SQLite.Core.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Data.SQLite.Core.1.0.108.0\build\net46\System.Data.SQLite.Core.targets'))" />
+  </Target>
+</Project>

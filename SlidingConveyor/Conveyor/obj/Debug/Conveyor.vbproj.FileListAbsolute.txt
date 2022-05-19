@@ -1,0 +1,79 @@
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\bin\Debug\DMT.dll
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\bin\Debug\Conveyor.exe.config
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\bin\Debug\Conveyor.exe
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\bin\Debug\Conveyor.pdb
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\bin\Debug\Conveyor.xml
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\bin\Debug\EntityFramework.xml
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\bin\Debug\System.Data.SQLite.xml
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Debug\Conveyor.vbprojAssemblyReference.cache
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Debug\Conveyor.frm_conveyorSetup.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Debug\Conveyor.frm_error.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Debug\Conveyor.frm_information.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Debug\Conveyor.frm_Login.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Debug\Conveyor.frm_main.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Debug\Conveyor.frm_mainForm.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Debug\Conveyor.frm_manuel.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Debug\Conveyor.frm_msg.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Debug\Conveyor.frm_Parameter.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Debug\Conveyor.frm_Statistics.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Debug\Conveyor.frm_takeHarness.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Debug\Conveyor.frm_UsertSetup.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Debug\Conveyor.Resources.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Debug\Conveyor.vbproj.GenerateResource.cache
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Debug\Conveyor.vbproj.CoreCompileInputs.cache
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Debug\Conveyor.vbproj.CopyComplete
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Debug\Conveyor.exe
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Debug\Conveyor.xml
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Debug\Conveyor.pdb
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\bin\Debug\DMT.dll
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\bin\Debug\Conveyor.exe.config
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\bin\Debug\Conveyor.exe
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\bin\Debug\Conveyor.pdb
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\bin\Debug\Conveyor.xml
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Debug\Conveyor.frm_conveyorSetup.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Debug\Conveyor.frm_error.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Debug\Conveyor.frm_information.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Debug\Conveyor.frm_Login.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Debug\Conveyor.frm_main.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Debug\Conveyor.frm_mainForm.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Debug\Conveyor.frm_manuel.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Debug\Conveyor.frm_msg.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Debug\Conveyor.frm_Parameter.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Debug\Conveyor.frm_Statistics.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Debug\Conveyor.frm_takeHarness.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Debug\Conveyor.frm_UsertSetup.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Debug\Conveyor.Resources.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Debug\Conveyor.vbproj.GenerateResource.cache
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Debug\Conveyor.vbproj.CoreCompileInputs.cache
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Debug\Conveyor.vbproj.CopyComplete
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Debug\Conveyor.exe
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Debug\Conveyor.xml
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Debug\Conveyor.pdb
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Debug\Conveyor.vbprojAssemblyReference.cache
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\bin\Debug\DMT.dll
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\bin\Debug\Conveyor.exe.config
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\bin\Debug\Conveyor.exe
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\bin\Debug\Conveyor.pdb
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\bin\Debug\Conveyor.xml
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Debug\Conveyor.frm_conveyorSetup.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Debug\Conveyor.frm_error.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Debug\Conveyor.frm_information.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Debug\Conveyor.frm_Login.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Debug\Conveyor.frm_main.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Debug\Conveyor.frm_mainForm.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Debug\Conveyor.frm_manuel.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Debug\Conveyor.frm_msg.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Debug\Conveyor.frm_Parameter.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Debug\Conveyor.frm_Statistics.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Debug\Conveyor.frm_takeHarness.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Debug\Conveyor.frm_UsertSetup.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Debug\Conveyor.Resources.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Debug\Conveyor.vbproj.GenerateResource.cache
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Debug\Conveyor.vbproj.CoreCompileInputs.cache
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Debug\Conveyor.vbproj.CopyComplete
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Debug\Conveyor.exe
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Debug\Conveyor.xml
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Debug\Conveyor.pdb
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Debug\Conveyor.vbprojAssemblyReference.cache

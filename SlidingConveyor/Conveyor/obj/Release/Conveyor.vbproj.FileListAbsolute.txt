@@ -1,0 +1,195 @@
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Release\Conveyor.frm_conveyorSetup.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Release\Conveyor.frm_error.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Release\Conveyor.frm_information.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Release\Conveyor.frm_Login.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Release\Conveyor.frm_main.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Release\Conveyor.frm_mainForm.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Release\Conveyor.frm_manuel.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Release\Conveyor.frm_msg.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Release\Conveyor.frm_Parameter.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Release\Conveyor.frm_Statistics.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Release\Conveyor.frm_takeHarness.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Release\Conveyor.frm_UsertSetup.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Release\Conveyor.Resources.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Release\Conveyor.vbproj.GenerateResource.cache
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Release\Conveyor.vbproj.CoreCompileInputs.cache
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Release\Conveyor.xml
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\bin\Release\DMT.dll
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\bin\Release\Conveyor.exe.config
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\bin\Release\Conveyor.exe
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\bin\Release\Conveyor.pdb
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\bin\Release\Conveyor.xml
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\bin\Release\EntityFramework.dll
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\bin\Release\LBIndustrialCtrls.dll
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\bin\Release\PolyMonControls.dll
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\bin\Release\System.Data.SQLite.dll
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\bin\Release\EntityFramework.xml
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\bin\Release\System.Data.SQLite.xml
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Release\Conveyor.vbproj.CopyComplete
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Release\Conveyor.exe
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20180906\Conveyor\obj\Release\Conveyor.pdb
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\bin\Release\DMT.dll
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\bin\Release\Conveyor.exe.config
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\bin\Release\Conveyor.exe
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\bin\Release\Conveyor.pdb
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\bin\Release\Conveyor.xml
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\bin\Release\EntityFramework.dll
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\bin\Release\LBIndustrialCtrls.dll
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\bin\Release\PolyMonControls.dll
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\bin\Release\System.Data.SQLite.dll
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Release\Conveyor.vbprojAssemblyReference.cache
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Release\Conveyor.frm_conveyorSetup.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Release\Conveyor.frm_error.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Release\Conveyor.frm_information.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Release\Conveyor.frm_Login.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Release\Conveyor.frm_main.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Release\Conveyor.frm_mainForm.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Release\Conveyor.frm_manuel.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Release\Conveyor.frm_msg.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Release\Conveyor.frm_Parameter.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Release\Conveyor.frm_Statistics.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Release\Conveyor.frm_takeHarness.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Release\Conveyor.frm_UsertSetup.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Release\Conveyor.Resources.resources
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Release\Conveyor.vbproj.GenerateResource.cache
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Release\Conveyor.vbproj.CoreCompileInputs.cache
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Release\Conveyor.vbproj.CopyComplete
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Release\Conveyor.exe
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Release\Conveyor.xml
+C:\Users\Hilal ÖZTÜRK\source\repos\PROGRAMS\Conveyor 20181018\Conveyor\obj\Release\Conveyor.pdb
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\bin\Release\DMT.dll
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\bin\Release\Conveyor.exe.config
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\bin\Release\Conveyor.exe
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\bin\Release\Conveyor.pdb
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\bin\Release\Conveyor.xml
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\bin\Release\EntityFramework.dll
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\bin\Release\EntityFramework.SqlServer.dll
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\bin\Release\LBIndustrialCtrls.dll
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\bin\Release\PolyMonControls.dll
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\bin\Release\System.Data.SQLite.dll
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\bin\Release\System.Data.SQLite.EF6.dll
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\bin\Release\System.Data.SQLite.Linq.dll
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\obj\Release\Conveyor.vbprojAssemblyReference.cache
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\obj\Release\Conveyor.frm_conveyorSetup.resources
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\obj\Release\Conveyor.frm_error.resources
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\obj\Release\Conveyor.frm_information.resources
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\obj\Release\Conveyor.frm_Login.resources
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\obj\Release\Conveyor.frm_main.resources
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\obj\Release\Conveyor.frm_mainForm.resources
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\obj\Release\Conveyor.frm_manuel.resources
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\obj\Release\Conveyor.frm_msg.resources
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\obj\Release\Conveyor.frm_Parameter.resources
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\obj\Release\Conveyor.frm_Statistics.resources
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\obj\Release\Conveyor.frm_takeHarness.resources
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\obj\Release\Conveyor.frm_UsertSetup.resources
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\obj\Release\Conveyor.Resources.resources
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\obj\Release\Conveyor.vbproj.GenerateResource.cache
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\obj\Release\Conveyor.vbproj.CoreCompileInputs.cache
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\obj\Release\Conveyor.vbproj.CopyComplete
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\obj\Release\Conveyor.exe
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\obj\Release\Conveyor.xml
+E:\FILEs\Desktop\SW\HILAL\Conveyor 20181114\Conveyor\obj\Release\Conveyor.pdb
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\bin\Release\DMT.dll
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\bin\Release\Conveyor.exe.config
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\bin\Release\Conveyor.exe
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\bin\Release\Conveyor.pdb
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\bin\Release\Conveyor.xml
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\bin\Release\EntityFramework.dll
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\bin\Release\LBIndustrialCtrls.dll
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\bin\Release\PolyMonControls.dll
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\bin\Release\System.Data.SQLite.dll
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Release\Conveyor.vbprojAssemblyReference.cache
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Release\Conveyor.frm_conveyorSetup.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Release\Conveyor.frm_error.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Release\Conveyor.frm_information.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Release\Conveyor.frm_Login.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Release\Conveyor.frm_main.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Release\Conveyor.frm_mainForm.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Release\Conveyor.frm_manuel.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Release\Conveyor.frm_msg.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Release\Conveyor.frm_Parameter.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Release\Conveyor.frm_Statistics.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Release\Conveyor.frm_takeHarness.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Release\Conveyor.frm_UsertSetup.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Release\Conveyor.Resources.resources
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Release\Conveyor.vbproj.GenerateResource.cache
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Release\Conveyor.vbproj.CoreCompileInputs.cache
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Release\Conveyor.vbproj.CopyComplete
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Release\Conveyor.exe
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Release\Conveyor.xml
+C:\Users\HKocatepe\Desktop\Conveyor 20181114\Conveyor\obj\Release\Conveyor.pdb
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\bin\Release\DMT.dll
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\bin\Release\Conveyor.exe.config
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\bin\Release\Conveyor.exe
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\bin\Release\Conveyor.pdb
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\bin\Release\Conveyor.xml
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\bin\Release\EntityFramework.dll
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\bin\Release\EntityFramework.SqlServer.dll
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\bin\Release\LBIndustrialCtrls.dll
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\bin\Release\PolyMonControls.dll
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\bin\Release\System.Data.SQLite.dll
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\bin\Release\System.Data.SQLite.EF6.dll
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\bin\Release\System.Data.SQLite.Linq.dll
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.vbprojAssemblyReference.cache
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.frm_conveyorSetup.resources
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.frm_error.resources
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.frm_information.resources
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.frm_Login.resources
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.frm_main.resources
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.frm_mainForm.resources
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.frm_manuel.resources
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.frm_msg.resources
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.frm_Parameter.resources
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.frm_Statistics.resources
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.frm_takeHarness.resources
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.frm_UsertSetup.resources
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.Resources.resources
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.vbproj.GenerateResource.cache
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.vbproj.CoreCompileInputs.cache
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.vbproj.CopyComplete
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.exe
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.xml
+E:\FILEs\Desktop\HK\EMRE\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.pdb
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\bin\Release\DMT.dll
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\bin\Release\Conveyor.exe.config
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\bin\Release\Conveyor.exe
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\bin\Release\Conveyor.pdb
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\bin\Release\Conveyor.xml
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\bin\Release\EntityFramework.dll
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\bin\Release\EntityFramework.SqlServer.dll
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\bin\Release\LBIndustrialCtrls.dll
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\bin\Release\PolyMonControls.dll
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\bin\Release\System.Data.SQLite.dll
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\bin\Release\System.Data.SQLite.EF6.dll
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\bin\Release\System.Data.SQLite.Linq.dll
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.vbprojAssemblyReference.cache
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.frm_conveyorSetup.resources
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.frm_error.resources
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.frm_information.resources
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.frm_Login.resources
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.frm_main.resources
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.frm_mainForm.resources
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.frm_manuel.resources
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.frm_msg.resources
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.frm_Parameter.resources
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.frm_Statistics.resources
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.frm_takeHarness.resources
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.frm_UsertSetup.resources
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.Resources.resources
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.vbproj.GenerateResource.cache
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.vbproj.CoreCompileInputs.cache
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.vbproj.CopyComplete
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.exe
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.xml
+D:\Sliding konveyör\Conveyor 20190807\Conveyor\obj\Release\Conveyor.pdb
