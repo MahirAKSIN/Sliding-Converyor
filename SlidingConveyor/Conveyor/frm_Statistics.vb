@@ -18,6 +18,7 @@ Public Class frm_Statistics
         grd_statistic.DataSource = frm_Login.LocalDB.PopulateGrid("Select * from STATISTICs where Type = 'Production'")
         'grd_statistic.Refresh()
 
+        'Mahir Aksin --->'20190705''
     End Sub
 
     Private Sub btn_Filter_Click(sender As Object, e As EventArgs) Handles btn_Filter.Click
